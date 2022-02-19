@@ -1,2 +1,0 @@
-# kimoPro
-kimo
